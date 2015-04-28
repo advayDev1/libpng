@@ -1,4 +1,7 @@
 README for libpng version 1.6.17 - March 26, 2015 (shared library 16.0)
+=======
+This is a forked copy of libpng that elides the contrib/ directory.
+
 See the note about version numbers near the top of png.h
 
 See INSTALL for instructions on how to install libpng.
