@@ -1,0 +1,8 @@
+# Make outputs
+
+pnglibconf.h
+libpng-config
+libpng.a
+libpng.pc
+*.dylib
+*.o
