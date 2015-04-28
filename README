@@ -1,3 +1,10 @@
+You probably just want:
+https://github.com/glennrp/libpng
+This is a forked copy of libpng that elides the contrib/ directory.
+
+======================
+
+
 README for libpng version 1.6.17 - March 26, 2015 (shared library 16.0)
 =======
 This is a forked copy of libpng that elides the contrib/ directory.
